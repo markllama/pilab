@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>drawings - powerusb</name>
+  <icon>powerusb.png</icon>
+  <connections>
+    <point x="0.0646447" y="0"/>
+    <point x="23.2077" y="9.00097"/>
+    <point x="0.0646447" y="9.00097"/>
+    <point x="0.0646447" y="4.50048"/>
+    <point x="23.2077" y="0"/>
+    <point x="23.2077" y="4.50048"/>
+    <point x="11.6362" y="9.00097"/>
+    <point x="11.6362" y="0"/>
+    <point x="3.09056" y="-0.0146447"/>
+    <point x="20.3086" y="4.33406"/>
+    <point x="3.09056" y="4.33406"/>
+    <point x="3.09056" y="2.15971"/>
+    <point x="20.3086" y="-0.0146447"/>
+    <point x="20.3086" y="2.15971"/>
+    <point x="11.6996" y="4.33406"/>
+    <point x="11.6996" y="-0.0146447"/>
+    <point x="5.2744" y="2.51743"/>
+    <point x="5.28259" y="1.85919"/>
+    <point x="5.27849" y="2.18831"/>
+    <point x="6.01156" y="2.51743"/>
+    <point x="6.01975" y="1.85919"/>
+    <point x="6.01565" y="2.18831"/>
+    <point x="5.66127" y="1.6117"/>
+    <point x="5.66127" y="1.33891"/>
+    <point x="5.52487" y="1.4753"/>
+    <point x="5.79767" y="1.4753"/>
+    <point x="9.33496" y="2.55279"/>
+    <point x="9.34315" y="1.89454"/>
+    <point x="9.33906" y="2.22367"/>
+    <point x="10.0721" y="2.55279"/>
+    <point x="10.0803" y="1.89454"/>
+    <point x="10.0762" y="2.22367"/>
+    <point x="9.72183" y="1.64706"/>
+    <point x="9.72183" y="1.37426"/>
+    <point x="9.58543" y="1.51066"/>
+    <point x="9.85823" y="1.51066"/>
+    <point x="13.7491" y="2.48208"/>
+    <point x="13.7573" y="1.82383"/>
+    <point x="13.7532" y="2.15295"/>
+    <point x="14.4862" y="2.48208"/>
+    <point x="14.4944" y="1.82383"/>
+    <point x="14.4903" y="2.15295"/>
+    <point x="14.1359" y="1.57635"/>
+    <point x="14.1359" y="1.30355"/>
+    <point x="13.9995" y="1.43995"/>
+    <point x="14.2723" y="1.43995"/>
+    <point x="17.1785" y="2.44672"/>
+    <point x="17.1867" y="1.78848"/>
+    <point x="17.1826" y="2.1176"/>
+    <point x="17.9157" y="2.44672"/>
+    <point x="17.9239" y="1.78848"/>
+    <point x="17.9198" y="2.1176"/>
+    <point x="17.5654" y="1.54099"/>
+    <point x="17.5654" y="1.2682"/>
+    <point x="17.429" y="1.40459"/>
+    <point x="17.7018" y="1.40459"/>
+    <point x="1.21673" y="5.71292"/>
+    <point x="2.24203" y="7.73823"/>
+    <point x="1.21673" y="7.73823"/>
+    <point x="1.21673" y="6.72557"/>
+    <point x="2.24203" y="5.71292"/>
+    <point x="2.24203" y="6.72557"/>
+    <point x="1.72938" y="7.73823"/>
+    <point x="1.72938" y="5.71292"/>
+    <point x="0.120711" y="3.83909"/>
+    <point x="0.827817" y="4.51084"/>
+    <point x="0.120711" y="4.51084"/>
+    <point x="0.120711" y="4.17496"/>
+    <point x="0.827817" y="3.83909"/>
+    <point x="0.827817" y="4.17496"/>
+    <point x="0.474264" y="4.51084"/>
+    <point x="0.474264" y="3.83909"/>
+    <point x="17.4802" y="7.65244"/>
+    <point x="17.4802" y="7.02609"/>
+    <point x="17.167" y="7.33927"/>
+    <point x="17.7934" y="7.33927"/>
+    <point x="18.9952" y="7.65244"/>
+    <point x="18.9952" y="7.02609"/>
+    <point x="18.682" y="7.33927"/>
+    <point x="19.3083" y="7.33927"/>
+    <point x="20.5101" y="7.68779"/>
+    <point x="20.5101" y="7.06145"/>
+    <point x="20.197" y="7.37462"/>
+    <point x="20.8233" y="7.37462"/>
+    <point x="22.3592" y="4.228"/>
+    <point x="23.1724" y="4.86439"/>
+    <point x="22.3592" y="4.86439"/>
+    <point x="22.3592" y="4.54619"/>
+    <point x="23.1724" y="4.228"/>
+    <point x="23.1724" y="4.54619"/>
+    <point x="22.7658" y="4.86439"/>
+    <point x="22.7658" y="4.228"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #d8e5e5" x="0.0646447" y="0" width="23.1431" height="9.00097"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.0646447" y="0" width="23.1431" height="9.00097"/>
+    <svg:rect style="fill: #ffffff" x="3.09056" y="-0.0146447" width="17.2181" height="4.34871"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.09056" y="-0.0146447" width="17.2181" height="4.34871"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="5.2744" y1="2.51743" x2="5.28259" y2="1.85919"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="6.01156" y1="2.51743" x2="6.01975" y2="1.85919"/>
+    <svg:ellipse style="fill: #000000" cx="5.66127" cy="1.4753" rx="0.136396" ry="0.136396"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="5.66127" cy="1.4753" rx="0.136396" ry="0.136396"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="9.33496" y1="2.55279" x2="9.34315" y2="1.89454"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="10.0721" y1="2.55279" x2="10.0803" y2="1.89454"/>
+    <svg:ellipse style="fill: #000000" cx="9.72183" cy="1.51066" rx="0.136396" ry="0.136396"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="9.72183" cy="1.51066" rx="0.136396" ry="0.136396"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="13.7491" y1="2.48208" x2="13.7573" y2="1.82383"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="14.4862" y1="2.48208" x2="14.4944" y2="1.82383"/>
+    <svg:ellipse style="fill: #000000" cx="14.1359" cy="1.43995" rx="0.136396" ry="0.136396"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="14.1359" cy="1.43995" rx="0.136396" ry="0.136396"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="17.1785" y1="2.44672" x2="17.1867" y2="1.78848"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x1="17.9157" y1="2.44672" x2="17.9239" y2="1.78848"/>
+    <svg:ellipse style="fill: #000000" cx="17.5654" cy="1.40459" rx="0.136396" ry="0.136396"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="17.5654" cy="1.40459" rx="0.136396" ry="0.136396"/>
+    <svg:rect style="fill: #1a1a1a" x="1.21673" y="5.71292" width="1.0253" height="2.0253"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="1.21673" y="5.71292" width="1.0253" height="2.0253"/>
+    <svg:rect style="fill: #ffffff" x="0.120711" y="3.83909" width="0.707107" height="0.671751"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.120711" y="3.83909" width="0.707107" height="0.671751"/>
+    <svg:ellipse style="fill: #ff0000" cx="17.4802" cy="7.33927" rx="0.313173" ry="0.313173"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="17.4802" cy="7.33927" rx="0.313173" ry="0.313173"/>
+    <svg:ellipse style="fill: #ff0000" cx="18.9952" cy="7.33927" rx="0.313173" ry="0.313173"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="18.9952" cy="7.33927" rx="0.313173" ry="0.313173"/>
+    <svg:ellipse style="fill: #ff0000" cx="20.5101" cy="7.37462" rx="0.313173" ry="0.313173"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="20.5101" cy="7.37462" rx="0.313173" ry="0.313173"/>
+    <svg:rect style="fill: #ffffff" x="22.3592" y="4.228" width="0.813173" height="0.636396"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="22.3592" y="4.228" width="0.813173" height="0.636396"/>
+  </svg:svg>
+</shape>

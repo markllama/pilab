@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>drawings - dlink-dub-h7_v</name>
+  <icon>dlink-dub-h7_v.png</icon>
+  <connections>
+    <point x="0.15" y="0.2"/>
+    <point x="5.6" y="10"/>
+    <point x="0.15" y="10"/>
+    <point x="0.15" y="5.1"/>
+    <point x="5.6" y="0.2"/>
+    <point x="5.6" y="5.1"/>
+    <point x="2.875" y="10"/>
+    <point x="2.875" y="0.2"/>
+    <point x="0.2" y="4.75"/>
+    <point x="1.25" y="5.35"/>
+    <point x="0.2" y="5.35"/>
+    <point x="0.2" y="5.05"/>
+    <point x="1.25" y="4.75"/>
+    <point x="1.25" y="5.05"/>
+    <point x="0.725" y="5.35"/>
+    <point x="0.725" y="4.75"/>
+    <point x="0.1875" y="3.7025"/>
+    <point x="1.2375" y="4.3025"/>
+    <point x="0.1875" y="4.3025"/>
+    <point x="0.1875" y="4.0025"/>
+    <point x="1.2375" y="3.7025"/>
+    <point x="1.2375" y="4.0025"/>
+    <point x="0.7125" y="4.3025"/>
+    <point x="0.7125" y="3.7025"/>
+    <point x="0.175" y="5.805"/>
+    <point x="1.225" y="6.405"/>
+    <point x="0.175" y="6.405"/>
+    <point x="0.175" y="6.105"/>
+    <point x="1.225" y="5.805"/>
+    <point x="1.225" y="6.105"/>
+    <point x="0.7" y="6.405"/>
+    <point x="0.7" y="5.805"/>
+    <point x="0.1625" y="6.9075"/>
+    <point x="1.2125" y="7.5075"/>
+    <point x="0.1625" y="7.5075"/>
+    <point x="0.1625" y="7.2075"/>
+    <point x="1.2125" y="6.9075"/>
+    <point x="1.2125" y="7.2075"/>
+    <point x="0.6875" y="7.5075"/>
+    <point x="0.6875" y="6.9075"/>
+    <point x="0.2" y="2.56"/>
+    <point x="1.25" y="3.16"/>
+    <point x="0.2" y="3.16"/>
+    <point x="0.2" y="2.86"/>
+    <point x="1.25" y="2.56"/>
+    <point x="1.25" y="2.86"/>
+    <point x="0.725" y="3.16"/>
+    <point x="0.725" y="2.56"/>
+    <point x="0.1875" y="1.3625"/>
+    <point x="1.2375" y="1.9625"/>
+    <point x="0.1875" y="1.9625"/>
+    <point x="0.1875" y="1.6625"/>
+    <point x="1.2375" y="1.3625"/>
+    <point x="1.2375" y="1.6625"/>
+    <point x="0.7125" y="1.9625"/>
+    <point x="0.7125" y="1.3625"/>
+    <point x="0.175" y="8.065"/>
+    <point x="1.225" y="8.665"/>
+    <point x="0.175" y="8.665"/>
+    <point x="0.175" y="8.365"/>
+    <point x="1.225" y="8.065"/>
+    <point x="1.225" y="8.365"/>
+    <point x="0.7" y="8.665"/>
+    <point x="0.7" y="8.065"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="0.15" y="0.2" width="5.45" height="9.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.15" y="0.2" width="5.45" height="9.8"/>
+    <svg:rect style="fill: #000000" x="0.2" y="4.75" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.2" y="4.75" width="1.05" height="0.6"/>
+    <svg:rect style="fill: #000000" x="0.1875" y="3.7025" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.1875" y="3.7025" width="1.05" height="0.6"/>
+    <svg:rect style="fill: #000000" x="0.175" y="5.805" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.175" y="5.805" width="1.05" height="0.6"/>
+    <svg:rect style="fill: #000000" x="0.1625" y="6.9075" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.1625" y="6.9075" width="1.05" height="0.6"/>
+    <svg:rect style="fill: #000000" x="0.2" y="2.56" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.2" y="2.56" width="1.05" height="0.6"/>
+    <svg:rect style="fill: #000000" x="0.1875" y="1.3625" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.1875" y="1.3625" width="1.05" height="0.6"/>
+    <svg:rect style="fill: #000000" x="0.175" y="8.065" width="1.05" height="0.6"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.175" y="8.065" width="1.05" height="0.6"/>
+  </svg:svg>
+</shape>

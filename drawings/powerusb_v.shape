@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>drawings - powerusb_v</name>
+  <icon>powerusb_v.png</icon>
+  <connections>
+    <point x="0.05" y="0.05"/>
+    <point x="8.95" y="23"/>
+    <point x="0.05" y="23"/>
+    <point x="0.05" y="11.525"/>
+    <point x="8.95" y="0.05"/>
+    <point x="8.95" y="11.525"/>
+    <point x="4.5" y="23"/>
+    <point x="4.5" y="0.05"/>
+    <point x="0.05" y="2.6"/>
+    <point x="4.75" y="20.15"/>
+    <point x="0.05" y="20.15"/>
+    <point x="0.05" y="11.375"/>
+    <point x="4.75" y="2.6"/>
+    <point x="4.75" y="11.375"/>
+    <point x="2.4" y="20.15"/>
+    <point x="2.4" y="2.6"/>
+    <point x="2.35" y="5"/>
+    <point x="3.3" y="4.95"/>
+    <point x="2.825" y="4.975"/>
+    <point x="2.3725" y="5.84"/>
+    <point x="3.3225" y="5.79"/>
+    <point x="2.8475" y="5.815"/>
+    <point x="1.75" y="5.55"/>
+    <point x="1.75" y="5.15"/>
+    <point x="1.55" y="5.35"/>
+    <point x="1.95" y="5.35"/>
+    <point x="2.3225" y="8.84"/>
+    <point x="3.2725" y="8.79"/>
+    <point x="2.7975" y="8.815"/>
+    <point x="2.345" y="9.68"/>
+    <point x="3.295" y="9.63"/>
+    <point x="2.82" y="9.655"/>
+    <point x="1.7225" y="9.39"/>
+    <point x="1.7225" y="8.99"/>
+    <point x="1.5225" y="9.19"/>
+    <point x="1.9225" y="9.19"/>
+    <point x="2.295" y="12.88"/>
+    <point x="3.245" y="12.83"/>
+    <point x="2.77" y="12.855"/>
+    <point x="2.3175" y="13.72"/>
+    <point x="3.2675" y="13.67"/>
+    <point x="2.7925" y="13.695"/>
+    <point x="1.695" y="13.43"/>
+    <point x="1.695" y="13.03"/>
+    <point x="1.495" y="13.23"/>
+    <point x="1.895" y="13.23"/>
+    <point x="2.2675" y="16.77"/>
+    <point x="3.2175" y="16.72"/>
+    <point x="2.7425" y="16.745"/>
+    <point x="2.29" y="17.61"/>
+    <point x="3.24" y="17.56"/>
+    <point x="2.765" y="17.585"/>
+    <point x="1.6675" y="17.32"/>
+    <point x="1.6675" y="16.92"/>
+    <point x="1.4675" y="17.12"/>
+    <point x="1.8675" y="17.12"/>
+    <point x="5.4" y="19.95"/>
+    <point x="8.25" y="21.15"/>
+    <point x="5.4" y="21.15"/>
+    <point x="5.4" y="20.55"/>
+    <point x="8.25" y="19.95"/>
+    <point x="8.25" y="20.55"/>
+    <point x="6.825" y="21.15"/>
+    <point x="6.825" y="19.95"/>
+    <point x="4.4" y="22.1"/>
+    <point x="5.3" y="23"/>
+    <point x="4.4" y="23"/>
+    <point x="4.4" y="22.55"/>
+    <point x="5.3" y="22.1"/>
+    <point x="5.3" y="22.55"/>
+    <point x="4.85" y="23"/>
+    <point x="4.85" y="22.1"/>
+    <point x="4.25" y="0.15"/>
+    <point x="5.15" y="1.05"/>
+    <point x="4.25" y="1.05"/>
+    <point x="4.25" y="0.6"/>
+    <point x="5.15" y="0.15"/>
+    <point x="5.15" y="0.6"/>
+    <point x="4.7" y="1.05"/>
+    <point x="4.7" y="0.15"/>
+    <point x="7" y="3.5"/>
+    <point x="7" y="3.1"/>
+    <point x="6.8" y="3.3"/>
+    <point x="7.2" y="3.3"/>
+    <point x="6.995" y="5.18"/>
+    <point x="6.995" y="4.78"/>
+    <point x="6.795" y="4.98"/>
+    <point x="7.195" y="4.98"/>
+    <point x="7.0225" y="6.69"/>
+    <point x="7.0225" y="6.29"/>
+    <point x="6.8225" y="6.49"/>
+    <point x="7.2225" y="6.49"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="0.05" y="0.05" width="8.9" height="22.95"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.05" y="0.05" width="8.9" height="22.95"/>
+    <svg:rect style="fill: #d8e5e5" x="0.05" y="2.6" width="4.7" height="17.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.05" y="2.6" width="4.7" height="17.55"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.35" y1="5" x2="3.3" y2="4.95"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.3725" y1="5.84" x2="3.3225" y2="5.79"/>
+    <svg:ellipse style="fill: #000000" cx="1.75" cy="5.35" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="1.75" cy="5.35" rx="0.2" ry="0.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.3225" y1="8.84" x2="3.2725" y2="8.79"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.345" y1="9.68" x2="3.295" y2="9.63"/>
+    <svg:ellipse style="fill: #000000" cx="1.7225" cy="9.19" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="1.7225" cy="9.19" rx="0.2" ry="0.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.295" y1="12.88" x2="3.245" y2="12.83"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.3175" y1="13.72" x2="3.2675" y2="13.67"/>
+    <svg:ellipse style="fill: #000000" cx="1.695" cy="13.23" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="1.695" cy="13.23" rx="0.2" ry="0.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.2675" y1="16.77" x2="3.2175" y2="16.72"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.29" y1="17.61" x2="3.24" y2="17.56"/>
+    <svg:ellipse style="fill: #000000" cx="1.6675" cy="17.12" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="1.6675" cy="17.12" rx="0.2" ry="0.2"/>
+    <svg:rect style="fill: #000000" x="5.4" y="19.95" width="2.85" height="1.2"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="5.4" y="19.95" width="2.85" height="1.2"/>
+    <svg:rect style="fill: #ffffff" x="4.4" y="22.1" width="0.9" height="0.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="4.4" y="22.1" width="0.9" height="0.9"/>
+    <svg:rect style="fill: #ffffff" x="4.25" y="0.15" width="0.9" height="0.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="4.25" y="0.15" width="0.9" height="0.9"/>
+    <svg:ellipse style="fill: #ff0000" cx="7" cy="3.3" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="7" cy="3.3" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: #ff0000" cx="6.995" cy="4.98" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="6.995" cy="4.98" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: #ff0000" cx="7.0225" cy="6.49" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="7.0225" cy="6.49" rx="0.2" ry="0.2"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>drawings - NetgearWNDR3800</name>
+  <icon>NetgearWNDR3800.png</icon>
+  <connections>
+    <point x="1.1" y="0.05"/>
+    <point x="21.3" y="0.05"/>
+    <point x="11.2" y="0.05"/>
+    <point x="1.1" y="15.3"/>
+    <point x="21.3" y="15.3"/>
+    <point x="11.2" y="15.3"/>
+    <point x="0.1" y="1.05"/>
+    <point x="0.1" y="14.3"/>
+    <point x="0.1" y="7.675"/>
+    <point x="22.3" y="1.05"/>
+    <point x="22.3" y="14.3"/>
+    <point x="22.3" y="7.675"/>
+    <point x="6.675" y="13.8457"/>
+    <point x="7.45" y="15.2707"/>
+    <point x="6.675" y="15.2707"/>
+    <point x="6.675" y="14.5582"/>
+    <point x="7.45" y="13.8457"/>
+    <point x="7.45" y="14.5582"/>
+    <point x="7.0625" y="15.2707"/>
+    <point x="7.0625" y="13.8457"/>
+    <point x="7.74065" y="13.846"/>
+    <point x="9.3117" y="15.2576"/>
+    <point x="7.74065" y="15.2576"/>
+    <point x="7.74065" y="14.5518"/>
+    <point x="9.3117" y="13.846"/>
+    <point x="9.3117" y="14.5518"/>
+    <point x="8.52617" y="15.2576"/>
+    <point x="8.52617" y="13.846"/>
+    <point x="9.85" y="13.8549"/>
+    <point x="16.225" y="15.3049"/>
+    <point x="9.85" y="15.3049"/>
+    <point x="9.85" y="14.5799"/>
+    <point x="16.225" y="13.8549"/>
+    <point x="16.225" y="14.5799"/>
+    <point x="13.0375" y="15.3049"/>
+    <point x="13.0375" y="13.8549"/>
+    <point x="16.625" y="13.8799"/>
+    <point x="17.875" y="15.2299"/>
+    <point x="16.625" y="15.2299"/>
+    <point x="16.625" y="14.5549"/>
+    <point x="17.875" y="13.8799"/>
+    <point x="17.875" y="14.5549"/>
+    <point x="17.25" y="15.2299"/>
+    <point x="17.25" y="13.8799"/>
+    <point x="10.0001" y="13.85"/>
+    <point x="11.4001" y="15.275"/>
+    <point x="10.0001" y="15.275"/>
+    <point x="10.0001" y="14.5625"/>
+    <point x="11.4001" y="13.85"/>
+    <point x="11.4001" y="14.5625"/>
+    <point x="10.7001" y="15.275"/>
+    <point x="10.7001" y="13.85"/>
+    <point x="11.5426" y="13.84"/>
+    <point x="12.9426" y="15.265"/>
+    <point x="11.5426" y="15.265"/>
+    <point x="11.5426" y="14.5525"/>
+    <point x="12.9426" y="13.84"/>
+    <point x="12.9426" y="14.5525"/>
+    <point x="12.2426" y="15.265"/>
+    <point x="12.2426" y="13.84"/>
+    <point x="13.1101" y="13.855"/>
+    <point x="14.5101" y="15.28"/>
+    <point x="13.1101" y="15.28"/>
+    <point x="13.1101" y="14.5675"/>
+    <point x="14.5101" y="13.855"/>
+    <point x="14.5101" y="14.5675"/>
+    <point x="13.8101" y="15.28"/>
+    <point x="13.8101" y="13.855"/>
+    <point x="14.6526" y="13.845"/>
+    <point x="16.0526" y="15.27"/>
+    <point x="14.6526" y="15.27"/>
+    <point x="14.6526" y="14.5575"/>
+    <point x="16.0526" y="13.845"/>
+    <point x="16.0526" y="14.5575"/>
+    <point x="15.3526" y="15.27"/>
+    <point x="15.3526" y="13.845"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #eeeeee" x="1.1" y="0.05" width="20.2" height="15.25"/>
+    <svg:path style="fill: #eeeeee" d="M 1.1,0.05 A 1,1 0 0 0 0.1,1.05 L 1.1,1.05 z"/>
+    <svg:path style="fill: #eeeeee" d="M 22.3,1.05 A 1,1 0 0 0 21.3,0.05 L 21.3,1.05 z"/>
+    <svg:rect style="fill: #eeeeee" x="0.1" y="1.05" width="22.2" height="13.25"/>
+    <svg:path style="fill: #eeeeee" d="M 0.1,14.3 A 1,1 0 0 0 1.1,15.3 L 1.1,14.3 z"/>
+    <svg:path style="fill: #eeeeee" d="M 21.3,15.3 A 1,1 0 0 0 22.3,14.3 L 21.3,14.3 z"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="1.1" y1="0.05" x2="21.3" y2="0.05"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="1.1" y1="15.3" x2="21.3" y2="15.3"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 1.1,0.05 A 1,1 0 0 0 0.1,1.05"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 22.3,1.05 A 1,1 0 0 0 21.3,0.05"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="0.1" y1="1.05" x2="0.1" y2="14.3"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="22.3" y1="1.05" x2="22.3" y2="14.3"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 0.1,14.3 A 1,1 0 0 0 1.1,15.3"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 21.3,15.3 A 1,1 0 0 0 22.3,14.3"/>
+    <svg:rect style="fill: #0000ff" x="6.675" y="13.8457" width="0.775" height="1.42501"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="6.675" y="13.8457" width="0.775" height="1.42501"/>
+    <svg:rect style="fill: #ffff00" x="7.74065" y="13.846" width="1.57105" height="1.41162"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="7.74065" y="13.846" width="1.57105" height="1.41162"/>
+    <svg:rect style="fill: #ffa500" x="9.85" y="13.8549" width="6.375" height="1.45"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="9.85" y="13.8549" width="6.375" height="1.45"/>
+    <svg:rect style="fill: #4d4d4d" x="16.625" y="13.8799" width="1.25" height="1.35"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="16.625" y="13.8799" width="1.25" height="1.35"/>
+    <svg:rect style="fill: #d8e5e5" x="10.0001" y="13.85" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="10.0001" y="13.85" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: #d8e5e5" x="11.5426" y="13.84" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="11.5426" y="13.84" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: #d8e5e5" x="13.1101" y="13.855" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="13.1101" y="13.855" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: #d8e5e5" x="14.6526" y="13.845" width="1.4" height="1.42501"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="14.6526" y="13.845" width="1.4" height="1.42501"/>
+  </svg:svg>
+</shape>
