@@ -1,0 +1,31 @@
+This document includes the physical dimensions of the components which
+are placed on the PiLab Pod.
+
+Netgear WNDR3800
+
+  Overall: 223 x 153 x 31 mm (8.8 x 6.0 x 1.2 in.)
+  Hanging holes:
+
+  Port Holes:
+  
+
+
+PowerUSB Basic
+
+  Dimension 9.25” L x 3.54” W x 2” H (235mm L, 90mm D, 50mm H)
+
+
+D-Link USB hub DUB-H7
+
+  Dimensions: 3.9 in x 2.4 in x 1 in  (100 x 57 x 23mm)
+
+
+Raspberry Pi AdaFruit case
+
+  98mm x 67mm x 33mm
+
+  SD extend: 32mm x 23mm (extends 12mm)
+
+  RJ45: 16mm x 20mm
+
+  USB A 13 x 17mm (extends 4mm)
