@@ -29,3 +29,8 @@ Raspberry Pi AdaFruit case
   RJ45: 16mm x 20mm
 
   USB A 13 x 17mm (extends 4mm)
+
+
+Netgear FVS318G ProSafe 8 Port Gigabit VPN Firewall
+
+  4.9 x 7.5 x 1.4 inches (125 x 191 x 36mm)
