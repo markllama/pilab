@@ -1,0 +1,22 @@
+This is the list of components PER STUDENT.  These fill the student pi
+slots in the PiLab Pod.  The student power USB cables may be replaced
+with shorter cables in the Pod to make cable management easier.
+
+
+Device                                  Quantity         Price (approx)
+--------------------------------------------------------------------------------
+
+Raspberry Pi Model B                    1                $35US
+
+Adafruit Raspberry Pi Enclosure         1                $15US
+
+USB to TTL Serial Cable                 1                $10US
+
+USB power supply, 5v 1A                 1                $8US
+
+USB B male, Micro B                     1                $8US
+
+SD card, 8GB                            1                $10US
+
+------------------------------------------------------------------------------
+Total                                                    $86US

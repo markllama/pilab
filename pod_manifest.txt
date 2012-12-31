@@ -17,10 +17,17 @@ Adafruit Raspberry Pi Enclosure         1                $15US
 
 USB to TTL Serial Cable                 2                $10US
 
-USB cable A male - B Male (.5m, 1.0m)   2                $10US
+USB power supply, 5v 1A                 1                $8US
 
-Cat5e UTP cable, RJ-45 (10cm - 2m)      6                $5US
+USB cable A male - B Male (.5m)         6                $10US
+
+USB cable A male - B Male (1m)          1                $10US
+
+Cat5e UTP cable, RJ-45 (10cm - 2m)      6                $5US*
 
 Plywood sheet, 22 x 17 x 5/8"           1                ??
 
 Velcro Straps, multicolored,            ??               ??
+
+------
+* Cat5E cables may be custom made to length to minimize slack loops
