@@ -1,0 +1,26 @@
+This is the list of components required to build one pod.
+It does not include the student Raspberry Pi gear.  See the
+pi_manifest.txt for the list of hardware per student.
+
+
+Device                                  Quantity         Price (approx)
+--------------------------------------------------------------------------------
+Netgear WNDR3800 N600 router            1                $120US
+
+PowerUSB Basic 4 socket power strip     2                $70US
+
+D-Link DUB-H7 7 port USB hub            1                $25US
+
+Raspberry Pi Model B                    1                $35US
+
+Adafruit Raspberry Pi Enclosure         1                $15US
+
+USB to TTL Serial Cable                 2                $10US
+
+USB cable A male - B Male (.5m, 1.0m)   2                $10US
+
+Cat5e UTP cable, RJ-45 (10cm - 2m)      6                $5US
+
+Plywood sheet, 22 x 17 x 5/8"           1                ??
+
+Velcro Straps, multicolored,            ??               ??
