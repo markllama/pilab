@@ -34,3 +34,13 @@ Raspberry Pi AdaFruit case
 Netgear FVS318G ProSafe 8 Port Gigabit VPN Firewall
 
   4.9 x 7.5 x 1.4 inches (125 x 191 x 36mm)
+
+Netgear GS605NA 5 port GBE switch $40US
+
+  5.79 x 3.81 x 1.12 inches (147 x 97 x 29 mm)
+
+Netgear FS105 10/100 switch $22US
+Netgear GS105 GBE switch $40$US
+
+  4.1 x 3.7 x 1.1 (105 x 94 x 28mm)
+  
