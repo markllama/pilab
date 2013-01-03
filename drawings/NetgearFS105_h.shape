@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>drawings - NetgearFS105_h</name>
+  <icon>NetgearFS105_h.png</icon>
+  <connections>
+    <point x="0.15" y="0.05"/>
+    <point x="10.6" y="9.35"/>
+    <point x="0.15" y="9.35"/>
+    <point x="0.15" y="4.7"/>
+    <point x="10.6" y="0.05"/>
+    <point x="10.6" y="4.7"/>
+    <point x="5.375" y="9.35"/>
+    <point x="5.375" y="0.05"/>
+    <point x="2.6" y="7.45"/>
+    <point x="4.15" y="9.35"/>
+    <point x="2.6" y="9.35"/>
+    <point x="2.6" y="8.4"/>
+    <point x="4.15" y="7.45"/>
+    <point x="4.15" y="8.4"/>
+    <point x="3.375" y="9.35"/>
+    <point x="3.375" y="7.45"/>
+    <point x="4.6375" y="7.4525"/>
+    <point x="6.1875" y="9.3525"/>
+    <point x="4.6375" y="9.3525"/>
+    <point x="4.6375" y="8.4025"/>
+    <point x="6.1875" y="7.4525"/>
+    <point x="6.1875" y="8.4025"/>
+    <point x="5.4125" y="9.3525"/>
+    <point x="5.4125" y="7.4525"/>
+    <point x="6.675" y="7.455"/>
+    <point x="8.225" y="9.355"/>
+    <point x="6.675" y="9.355"/>
+    <point x="6.675" y="8.405"/>
+    <point x="8.225" y="7.455"/>
+    <point x="8.225" y="8.405"/>
+    <point x="7.45" y="9.355"/>
+    <point x="7.45" y="7.455"/>
+    <point x="8.6125" y="7.4575"/>
+    <point x="10.1625" y="9.3575"/>
+    <point x="8.6125" y="9.3575"/>
+    <point x="8.6125" y="8.4075"/>
+    <point x="10.1625" y="7.4575"/>
+    <point x="10.1625" y="8.4075"/>
+    <point x="9.3875" y="9.3575"/>
+    <point x="9.3875" y="7.4575"/>
+    <point x="0.65" y="7.46"/>
+    <point x="2.2" y="9.36"/>
+    <point x="0.65" y="9.36"/>
+    <point x="0.65" y="8.41"/>
+    <point x="2.2" y="7.46"/>
+    <point x="2.2" y="8.41"/>
+    <point x="1.425" y="9.36"/>
+    <point x="1.425" y="7.46"/>
+    <point x="2.6" y="0.05"/>
+    <point x="3.3" y="0.9"/>
+    <point x="2.6" y="0.9"/>
+    <point x="2.6" y="0.475"/>
+    <point x="3.3" y="0.05"/>
+    <point x="3.3" y="0.475"/>
+    <point x="2.95" y="0.9"/>
+    <point x="2.95" y="0.05"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="0.15" y="0.05" width="10.45" height="9.3"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.15" y="0.05" width="10.45" height="9.3"/>
+    <svg:rect style="fill: #ffffff" x="2.6" y="7.45" width="1.55" height="1.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="2.6" y="7.45" width="1.55" height="1.9"/>
+    <svg:rect style="fill: #ffffff" x="4.6375" y="7.4525" width="1.55" height="1.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="4.6375" y="7.4525" width="1.55" height="1.9"/>
+    <svg:rect style="fill: #ffffff" x="6.675" y="7.455" width="1.55" height="1.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="6.675" y="7.455" width="1.55" height="1.9"/>
+    <svg:rect style="fill: #ffffff" x="8.6125" y="7.4575" width="1.55" height="1.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="8.6125" y="7.4575" width="1.55" height="1.9"/>
+    <svg:rect style="fill: #ffffff" x="0.65" y="7.46" width="1.55" height="1.9"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="0.65" y="7.46" width="1.55" height="1.9"/>
+    <svg:rect style="fill: #ffffff" x="2.6" y="0.05" width="0.7" height="0.85"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="2.6" y="0.05" width="0.7" height="0.85"/>
+  </svg:svg>
+</shape>
